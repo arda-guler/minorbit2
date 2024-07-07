@@ -29,7 +29,7 @@ After the headers, you can choose which minor planets to include in the simulati
 LICENSE
 ========================
 Minorbit2 is licensed under the terms of MIT License.
-https://github.com/arda-guler/minorbit2/LICENSE
+https://github.com/arda-guler/minorbit2/blob/master/LICENSE
 
 CITATION
 ========================
