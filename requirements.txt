@@ -1,0 +1,5 @@
+spiceypy==6.0.0
+DateTime==4.7
+numpy==1.24.2
+requests==2.27.1
+regex==2023.3.23
