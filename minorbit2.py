@@ -66,7 +66,7 @@ Retrieved from https://github.com/arda-guler/minorbit2
 
 license_text = """
 Minorbit2 is licensed under the terms of MIT License.
-See the license text at https://github.com/arda-guler/minorbit2/LICENSE
+See the license text at https://github.com/arda-guler/minorbit2/blob/master/LICENSE
 """
 
 class MainBody:
